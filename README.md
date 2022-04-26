@@ -45,6 +45,8 @@ if(keyCode == 32 && sound.isPlaying()){
 
 3. Change the background color based on whether a song is playing or not playing. E.g. The example shown below is “lightblue” when the song is playing and “plum” when it is paused
 
+![](/assets/challenge4.gif)
+
 4. Use the keyCode to check if a certain key is pressed. Stop, pause, or start the sound based on if that key is pressed. [Use the keyCode info site for specific values](https://keycode.info/). Try to use non-alphabetic keys!
 
 ```javascript
@@ -54,7 +56,6 @@ if(keyCode == 13){
 }
 ```
 
-![](/assets/challenge4.gif)
 
 5. Draw a square or ellipse on the page. Change the color based on whether the sound is playing. In the example shown below, the circle is yellow only when the sound is playing.
 
